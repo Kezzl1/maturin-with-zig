@@ -1,0 +1,2 @@
+- name: install-pinned/maturin-with-zig
+  uses: install-pinned/maturin-with-zig@add-commit-hash-here
